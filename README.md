@@ -17,9 +17,9 @@ This project is a simple and responsive web-based **Student Management Dashboard
 - Responsive design for mobile and desktop
 
 ## Technologies Used
-- **HTML** – for structuring the web page  
-- **CSS** – for styling and layout  
-- **JavaScript** – for interactivity and local data storage  
+- **HTML** for structuring the web page  
+- **CSS** for styling and layout  
+- **JavaScript** for interactivity and local data storage  
 
 ## How It Works
 1. **Adding Students**: Fill in the form and click **“Add Student”** to add the entry to the list.  
@@ -31,7 +31,7 @@ This project is a simple and responsive web-based **Student Management Dashboard
 ## How to Run
 1. Download or clone the repository.  
 2. Open `index.html` in any modern web browser.  
-3. Interact with the dashboard directly—no server or backend needed.  
+3. Interact with the dashboard directly, no server or backend needed.  
 
 ## Files
 - `index.html` – Main HTML file  
